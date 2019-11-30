@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sspaeth1/deployingExpress/issues"
   },
-  "homepage": "https://github.com/sspaeth1/deployingExpress#readme"
+  "homepage": "https://github.com/sspaeth1/deployingExpress#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
 }
