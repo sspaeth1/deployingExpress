@@ -1,0 +1,19 @@
+{
+  "name": "deployingexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspaeth1/deployingExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sspaeth1/deployingExpress/issues"
+  },
+  "homepage": "https://github.com/sspaeth1/deployingExpress#readme"
+}
